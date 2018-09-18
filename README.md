@@ -1,4 +1,5 @@
 # Tyche
+A lottery system based on font-end development<br/>
 一个基于Web前端的年终抽奖系统
 # Instructions
 Tyche:Goddess of fortune in Greek mythology.<br/>
